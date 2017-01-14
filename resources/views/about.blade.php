@@ -2,14 +2,14 @@
 @section('title', 'About')
 
 @section('content')
-    <div class="content">
-        <div class="title m-b-md">
+    <div class="Jumbotron">
+        <h1 class="title">
             About Page
-        </div>
+        </h1>
 
-        <div class="quote">
+        <p class="quote">
             Our about page.
-        </div>
+        </p>
     </div>
     </div>
 @endsection
